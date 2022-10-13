@@ -6,4 +6,7 @@ A better learning path for DSA
  - Devesh Singh
  - Yash Dubey 
 
+# Details for merging requests
+- dsa programming is only in c++ language
+- for code in java in 
 # Keep Supporting
